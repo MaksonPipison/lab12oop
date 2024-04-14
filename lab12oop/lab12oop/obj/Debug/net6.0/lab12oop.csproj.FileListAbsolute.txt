@@ -1,0 +1,15 @@
+C:\Users\User\source\git\lab12oop\lab12oop\bin\Debug\net6.0\lab12oop.exe
+C:\Users\User\source\git\lab12oop\lab12oop\bin\Debug\net6.0\lab12oop.deps.json
+C:\Users\User\source\git\lab12oop\lab12oop\bin\Debug\net6.0\lab12oop.runtimeconfig.json
+C:\Users\User\source\git\lab12oop\lab12oop\bin\Debug\net6.0\lab12oop.dll
+C:\Users\User\source\git\lab12oop\lab12oop\bin\Debug\net6.0\lab12oop.pdb
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.csproj.AssemblyReference.cache
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.AssemblyInfoInputs.cache
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.AssemblyInfo.cs
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.dll
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\refint\lab12oop.dll
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.pdb
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\lab12oop.genruntimeconfig.cache
+C:\Users\User\source\git\lab12oop\lab12oop\obj\Debug\net6.0\ref\lab12oop.dll
